@@ -1,0 +1,12 @@
+{
+  "Name": "Mongo Repositories",
+  "Version": "0.0.1",
+  "Autor": "Akasus",
+  "Files": {
+    "DllName": "MongoRepositories.dll"
+  },
+  "ConnectionStrings": {
+    "MongoDB": "mongodb://localhost:27018"
+  }
+}
+
